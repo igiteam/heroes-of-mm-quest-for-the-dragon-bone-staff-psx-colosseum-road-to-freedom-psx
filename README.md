@@ -1,1 +1,65 @@
-# heroes-of-mm-quest-for-the-dragon-bone-staff-psx-colosseum-road-to-freedom-psx
+# deus-ex-invisible-war-deus-ex-2000
+## Heroes of Might & Magic Quest for the DragonBone Staff PSX - Colosseum Road to Freedom PSX Remake
+Heroes of Might & Magic: Quest for the DragonBone Staff engine, combining its 3D environments, character models, animations, and adventure mechanics with Colosseum: Road to Freedom's gladiatorial combat, weapon progression, arena battles, and hack-and-slash fighting to create a seamless action RPG experience.
+
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/deus-ex-invisible-war-deus-ex-2000](https://treegit.macosxjs.com/?url=igiteam/deus-ex-invisible-war-deus-ex-2000)
+
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/deus-ex-invisible-war-deus-ex-2000/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/deus-ex-invisible-war-deus-ex-2000/git/trees/main?recursive=1)
+
+## Base Gameplay
+[![Colosseum Road to Freedom PCSX2](https://img.youtube.com/vi/OdGvC_R4RIs/maxresdefault.jpg)](https://ytembed.macosxjs.com/?T2RHdkNfUjRSSXM)
+
+[![Heroes of Might and Magic Quest for the Dragon Bone Staff PCSX2](https://img.youtube.com/vi/AEn9Ji6brj4/maxresdefault.jpg)](https://ytembed.macosxjs.com/?QUVuOUppNmJyajQ)
+
+## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
+
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
+
+## Reference Links
+[https://vimm.net/vault/69012](https://vimm.net/vault/69012)
+
+[https://vimm.net/vault/68924](https://vimm.net/vault/68924)
+
+[![Heroes of Might & Magic Quest for the DragonBone Staff](https://raw.githubusercontent.com/igiteam/heroes-of-mm-quest-for-the-dragon-bone-staff-psx-colosseum-road-to-freedom-psx/refs/heads/main/Heroes_of_Might_and_Magic_-_Quest_for_the_Dragon_Bone_Staff.png)](https://vimm.net/vault/69012)
+
+[![Colosseum Road to Freedom](https://raw.githubusercontent.com/igiteam/heroes-of-mm-quest-for-the-dragon-bone-staff-psx-colosseum-road-to-freedom-psx/refs/heads/main/colosseum-road-to-freedom.png)](https://vimm.net/vault/68924)
+
+## Dev Environment
+
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
+
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
+
